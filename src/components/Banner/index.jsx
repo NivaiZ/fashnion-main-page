@@ -6,7 +6,7 @@ export default function Banner() {
             <div className={`${styles.banner__wrapper} container`}>
                 <ul className={`${styles.banner__list} ${styles.banner__more}`}>
                     <li className={styles.banner__item}>
-                        <img src='/src/assets/images/promo-img.png' className={styles.banner__image} />
+                        <img src='../../../public/assets/images/promo-img.png' className={styles.banner__image} />
                     </li>
 
                     <li className={`${styles.banner__item} ${styles.banner__top}`}>

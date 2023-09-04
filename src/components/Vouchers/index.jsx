@@ -19,13 +19,13 @@ export default function Vouchers() {
                     <li className={`${styles.vouchers__item} ${styles.vouchers__block}`}>
                         <a className={styles.vouchers__link} href='/'>
                             <div className={styles.vouchers__box}>
-                                <img className={styles.vouchers__image} src='/src/assets/icons/app-store.png' />
+                                <img className={styles.vouchers__image} src='../../../public/assets/icons/app-store.png' />
                             </div>
                         </a>
 
                         <a className={styles.vouchers__link} href='/'>
                             <div className={styles.vouchers__box}>
-                                <img className={styles.vouchers__image} src='/src/assets/icons/google-play.png' />
+                                <img className={styles.vouchers__image} src='../../../public/assets/icons/google-play.png' />
                             </div>
                         </a>
 
@@ -35,7 +35,7 @@ export default function Vouchers() {
                 <ul className={styles.vouchers__list}>
                     <li className={styles.vouchers__item}>
                         <div className={styles.vouchers__picture}>
-                            <img className={styles.vouchers__img} src='/src/assets/images/vouchers-img.png' alt="voucher__picture" />
+                            <img className={styles.vouchers__img} src='../../../public/assets/images/vouchers-img.png' alt="voucher__picture" />
                         </div>
                     </li>
                 </ul>

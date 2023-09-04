@@ -1,5 +1,6 @@
 import styles from './novelties.module.less';
-import { ReactComponent as ArrowCard } from './../../assets/icons/arrow.svg';
+import { ReactComponent as ArrowCard } from '../../../public/assets/icons/arrow.svg';
+// icons/arrow.svg
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Keyboard, Pagination, Navigation } from 'swiper/modules';
 import 'swiper/css';
@@ -25,7 +26,7 @@ export default function Novelties() {
 
                 <SwiperSlide tag="li">
                     <a className={styles.novelties__link} href='/'>
-                        <img className={styles.novelties__image} src="/src/assets/categories/cat-01.jpg" />
+                        <img className={styles.novelties__image} src="../../../public/assets/categories/cat-01.jpg" />
 
                         <ul className={styles.novelties__group}>
                             <li className={styles.novelties__flex}>
@@ -43,7 +44,7 @@ export default function Novelties() {
 
                 <SwiperSlide tag="li">
                     <a className={styles.novelties__link} href='/'>
-                        <img className={styles.novelties__image} src="/src/assets/categories/cat-02.jpg" />
+                        <img className={styles.novelties__image} src="../../../public/assets/categories/cat-02.jpg" />
 
                         <ul className={styles.novelties__group}>
                             <li className={styles.novelties__flex}>
@@ -61,7 +62,7 @@ export default function Novelties() {
 
                 <SwiperSlide tag="li">
                     <a className={styles.novelties__link} href='/'>
-                        <img className={styles.novelties__image} src="/src/assets/categories/cat-03.jpg" />
+                        <img className={styles.novelties__image} src="../../../public/assets/categories/cat-03.jpg" />
 
                         <ul className={styles.novelties__group}>
                             <li className={styles.novelties__flex}>
@@ -79,7 +80,7 @@ export default function Novelties() {
 
                 <SwiperSlide tag="li">
                     <a className={styles.novelties__link} href='/'>
-                        <img className={styles.novelties__image} src="/src/assets/categories/cat-04.avif" />
+                        <img className={styles.novelties__image} src="../../../public/assets/categories/cat-04.avif" />
 
                         <ul className={styles.novelties__group}>
                             <li className={styles.novelties__flex}>
@@ -97,7 +98,7 @@ export default function Novelties() {
 
                 <SwiperSlide tag="li">
                     <a className={styles.novelties__link} href='/'>
-                        <img className={styles.novelties__image} src="/src/assets/categories/cat-05.avif" />
+                        <img className={styles.novelties__image} src="../../../public/assets/categories/cat-05.avif" />
 
                         <ul className={styles.novelties__group}>
                             <li className={styles.novelties__flex}>
@@ -115,7 +116,7 @@ export default function Novelties() {
 
                 <SwiperSlide tag="li">
                     <a className={styles.novelties__link} href='/'>
-                        <img className={styles.novelties__image} src="/src/assets/categories/cat-06.avif" />
+                        <img className={styles.novelties__image} src="../../../public/assets/categories/cat-06.avif" />
 
                         <ul className={styles.novelties__group}>
                             <li className={styles.novelties__flex}>

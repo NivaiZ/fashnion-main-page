@@ -1,5 +1,5 @@
 import styles from './header.module.less';
-import { ReactComponent as LogoHeader } from './../../assets/icons/logo.svg';
+import { ReactComponent as LogoHeader } from '../../../public/assets/icons/logo.svg';
 
 export default function Header() {
     return (

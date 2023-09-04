@@ -4,7 +4,7 @@ import { Keyboard, Pagination, Navigation } from 'swiper/modules';
 import 'swiper/css';
 import 'swiper/css/pagination';
 import 'swiper/css/navigation';
-import { ReactComponent as DecorYellow } from './../../assets/icons/decor-yellow.svg';
+import { ReactComponent as DecorYellow } from '../../../public/assets/icons/decor-yellow.svg';
 
 export default function Promo() {
     return (
@@ -68,7 +68,7 @@ export default function Promo() {
                         </li>
 
                         <li className={styles.promo__item}>
-                            <img src='/src/assets/images/header-img.jpg' className={styles.promo__image} />
+                            <img src='../../../public/assets/images/header-img.jpg' className={styles.promo__image} />
                         </li>
                     </ul>
                 </SwiperSlide>
@@ -118,7 +118,7 @@ export default function Promo() {
                         </li>
 
                         <li className={styles.promo__item}>
-                            <img src='/src/assets/images/header-img.jpg' className={styles.promo__image} />
+                            <img src='../../../public/assets/images/header-img.jpg' className={styles.promo__image} />
                         </li>
                     </ul>
                 </SwiperSlide>

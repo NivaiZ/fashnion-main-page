@@ -1,8 +1,8 @@
 import styles from './footer.module.less';
-import { ReactComponent as LogoFB } from './../../assets/socials/fb.svg';
-import { ReactComponent as LogoInstagram } from './../../assets/socials/inst.svg';
-import { ReactComponent as LogoTwitter } from './../../assets/socials/tw.svg';
-import { ReactComponent as LogoLinkedin } from './../../assets/socials/in.svg';
+import { ReactComponent as LogoFB } from '../../../public/assets/socials/fb.svg';
+import { ReactComponent as LogoInstagram } from '../../../public/assets/socials/inst.svg';
+import { ReactComponent as LogoTwitter } from '../../../public/assets/socials/tw.svg';
+import { ReactComponent as LogoLinkedin } from '../../../public/assets/socials/in.svg';
 
 
 export default function Footer() {
