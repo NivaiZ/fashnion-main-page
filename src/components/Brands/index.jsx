@@ -26,49 +26,49 @@ export default function Brands() {
                 >
                     <SwiperSlide tag="li">
                         <a className={styles.brands__link} href='/'>
-                            <img src='../../../public/assets/brands/HM.png' className={styles.brands__image} />
+                            <img src='assets/brands/HM.png' className={styles.brands__image} />
                         </a>
                     </SwiperSlide>
 
                     <SwiperSlide tag="li">
                         <a className={styles.brands__link} href='/'>
-                            <img src='../../../public/assets/brands/Obey.png' className={styles.brands__image} />
+                            <img src='assets/brands/Obey.png' className={styles.brands__image} />
                         </a>
                     </SwiperSlide>
 
                     <SwiperSlide tag="li">
                         <a className={styles.brands__link} href='/'>
-                            <img src='../../../public/assets/brands/Shopify.png' className={styles.brands__image} />
+                            <img src='assets/brands/Shopify.png' className={styles.brands__image} />
                         </a>
                     </SwiperSlide>
 
                     <SwiperSlide tag="li">
                         <a className={styles.brands__link} href='/'>
-                            <img src='../../../public/assets/brands/Lacoste.png' className={styles.brands__image} />
+                            <img src='assets/brands/Lacoste.png' className={styles.brands__image} />
                         </a>
                     </SwiperSlide>
 
                     <SwiperSlide tag="li">
                         <a className={styles.brands__link} href='/'>
-                            <img src='../../../public/assets/brands/Levis.png' className={styles.brands__image} />
+                            <img src='assets/brands/Levis.png' className={styles.brands__image} />
                         </a>
                     </SwiperSlide>
 
                     <SwiperSlide tag="li">
                         <a className={styles.brands__link} href='/'>
-                            <img src='../../../public/assets/brands/Amazon.png' className={styles.brands__image} />
+                            <img src='assets/brands/Amazon.png' className={styles.brands__image} />
                         </a>
                     </SwiperSlide>
 
                     <SwiperSlide tag="li">
                         <a className={styles.brands__link} href='/'>
-                            <img src='../../../public/assets/brands/Reebok.png' className={styles.brands__image} />
+                            <img src='assets/brands/Reebok.png' className={styles.brands__image} />
                         </a>
                     </SwiperSlide>
 
                     <SwiperSlide tag="li">
                         <a className={styles.brands__link} href='/'>
-                            <img src='../../../public/assets/brands/Puma.png' className={styles.brands__image} />
+                            <img src='assets/brands/Puma.png' className={styles.brands__image} />
                         </a>
                     </SwiperSlide>
                 </Swiper>

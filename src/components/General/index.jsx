@@ -68,7 +68,7 @@ export default function Promo() {
                         </li>
 
                         <li className={styles.promo__item}>
-                            <img src='../../../public/assets/images/header-img.jpg' className={styles.promo__image} />
+                            <img src='assets/images/header-img.jpg' className={styles.promo__image} />
                         </li>
                     </ul>
                 </SwiperSlide>
@@ -118,7 +118,7 @@ export default function Promo() {
                         </li>
 
                         <li className={styles.promo__item}>
-                            <img src='../../../public/assets/images/header-img.jpg' className={styles.promo__image} />
+                            <img src='assets/images/header-img.jpg' className={styles.promo__image} />
                         </li>
                     </ul>
                 </SwiperSlide>

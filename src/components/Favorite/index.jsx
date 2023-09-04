@@ -25,7 +25,7 @@ export default function Favorite() {
                 <SwiperSlide tag="li">
                     <a className={styles.favorites__link} href='/'>
                         <div className={styles.favorites__box}>
-                            <img className={styles.favorites__image} src="../../../public/assets/images/promo-01.jpg" />
+                            <img className={styles.favorites__image} src="assets/images/promo-01.jpg" />
                         </div>
 
                         <ul className={styles.favorites__group}>
@@ -45,7 +45,7 @@ export default function Favorite() {
                 <SwiperSlide tag="li">
                     <a className={styles.favorites__link} href='/'>
                         <div className={styles.favorites__box}>
-                            <img className={styles.favorites__image} src="../../../public/assets/images/promo-02.jpg" />
+                            <img className={styles.favorites__image} src="assets/images/promo-02.jpg" />
                         </div>
                         <ul className={styles.favorites__group}>
                             <li className={styles.favorites__flex}>
@@ -64,7 +64,7 @@ export default function Favorite() {
                 <SwiperSlide tag="li">
                     <a className={styles.favorites__link} href='/'>
                         <div className={styles.favorites__box}>
-                            <img className={styles.favorites__image} src="../../../public/assets/images/promo-03.jpg" />
+                            <img className={styles.favorites__image} src="assets/images/promo-03.jpg" />
                         </div>
                         <ul className={styles.favorites__group}>
                             <li className={styles.favorites__flex}>
@@ -83,7 +83,7 @@ export default function Favorite() {
                 <SwiperSlide tag="li">
                     <a className={styles.favorites__link} href='/'>
                         <div className={styles.favorites__box}>
-                            <img className={styles.favorites__image} src="../../../public/assets/images/promo-04.jpg" />
+                            <img className={styles.favorites__image} src="assets/images/promo-04.jpg" />
                         </div>
                         <ul className={styles.favorites__group}>
                             <li className={styles.favorites__flex}>
@@ -102,7 +102,7 @@ export default function Favorite() {
                 <SwiperSlide tag="li">
                     <a className={styles.favorites__link} href='/'>
                         <div className={styles.favorites__box}>
-                            <img className={styles.favorites__image} src="../../../public/assets/images/promo-05.jpg" />
+                            <img className={styles.favorites__image} src="assets/images/promo-05.jpg" />
                         </div>
                         <ul className={styles.favorites__group}>
                             <li className={styles.favorites__flex}>
@@ -121,7 +121,7 @@ export default function Favorite() {
                 <SwiperSlide tag="li">
                     <a className={styles.favorites__link} href='/'>
                         <div className={styles.favorites__box}>
-                            <img className={styles.favorites__image} src="../../../public/assets/images/promo-06.jpg" />
+                            <img className={styles.favorites__image} src="assets/images/promo-06.jpg" />
                         </div>
                         <ul className={styles.favorites__group}>
                             <li className={styles.favorites__flex}>

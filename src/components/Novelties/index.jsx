@@ -44,7 +44,7 @@ export default function Novelties() {
 
                 <SwiperSlide tag="li">
                     <a className={styles.novelties__link} href='/'>
-                        <img className={styles.novelties__image} src="/assets/categories/cat-02.jpg" />
+                        <img className={styles.novelties__image} src="assets/categories/cat-02.jpg" />
 
                         <ul className={styles.novelties__group}>
                             <li className={styles.novelties__flex}>
@@ -80,7 +80,7 @@ export default function Novelties() {
 
                 <SwiperSlide tag="li">
                     <a className={styles.novelties__link} href='/'>
-                        <img className={styles.novelties__image} src="assets/categories/cat-04.avif" />
+                        <img className={styles.novelties__image} src="assets/categories/cat-04.jpg" />
 
                         <ul className={styles.novelties__group}>
                             <li className={styles.novelties__flex}>
@@ -98,7 +98,7 @@ export default function Novelties() {
 
                 <SwiperSlide tag="li">
                     <a className={styles.novelties__link} href='/'>
-                        <img className={styles.novelties__image} src="assets/categories/cat-05.avif" />
+                        <img className={styles.novelties__image} src="assets/categories/cat-05.jpg" />
 
                         <ul className={styles.novelties__group}>
                             <li className={styles.novelties__flex}>
@@ -116,7 +116,7 @@ export default function Novelties() {
 
                 <SwiperSlide tag="li">
                     <a className={styles.novelties__link} href='/'>
-                        <img className={styles.novelties__image} src="public/assets/categories/cat-06.avif" />
+                        <img className={styles.novelties__image} src="assets/categories/cat-06.jpg" />
 
                         <ul className={styles.novelties__group}>
                             <li className={styles.novelties__flex}>
